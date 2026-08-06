@@ -1,0 +1,24 @@
+{
+  "schema": "tag.carousel.public_upload.v1",
+  "created_at": "2026-08-06T02:51:18.263292+00:00",
+  "package_dir": "/root/tmp/tag-carousel-packages/celeste-migration-canonical-2026-08-06-adocao-ia-brasil",
+  "repo": "matriztagcreator/ig-media-temp",
+  "branch": "main",
+  "dest": "test-celeste-migration-canonical-2026-08-06-adocao-ia-brasil-v2",
+  "media": [
+    "slide1.mp4",
+    "slide2.png",
+    "slide3.png",
+    "slide4.mp4",
+    "slide5.png",
+    "slide6.png",
+    "slide7.png",
+    "slide8.png",
+    "slide9.png",
+    "slide10.png"
+  ],
+  "safe": {
+    "meta_calls": false,
+    "publishes": false
+  }
+}

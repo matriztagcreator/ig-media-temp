@@ -1,0 +1,96 @@
+{
+  "schema": "tag.carousel.package.v1",
+  "created_at": "2026-08-06T02:51:17.599915+00:00",
+  "source_dir": "/root/inbox/celeste-local/TAG_CREATOR_CLAUDE/CONTEUDO_PAUTAS/pauta_2026-07-29_estudo-adocao-ia-brasil/v1",
+  "caption_source": "/root/inbox/celeste-local/TAG_CREATOR_CLAUDE/CONTEUDO_PAUTAS/pauta_2026-07-29_estudo-adocao-ia-brasil/v1/legenda.txt",
+  "package_dir": "/root/tmp/tag-carousel-packages/celeste-migration-canonical-2026-08-06-adocao-ia-brasil",
+  "media": [
+    "slide1.mp4",
+    "slide2.png",
+    "slide3.png",
+    "slide4.mp4",
+    "slide5.png",
+    "slide6.png",
+    "slide7.png",
+    "slide8.png",
+    "slide9.png",
+    "slide10.png"
+  ],
+  "items": [
+    {
+      "order": 1,
+      "source": "/root/inbox/celeste-local/TAG_CREATOR_CLAUDE/CONTEUDO_PAUTAS/pauta_2026-07-29_estudo-adocao-ia-brasil/v1/slide1.mp4",
+      "file": "slide1.mp4",
+      "bytes": 2716959,
+      "media_type": "VIDEO"
+    },
+    {
+      "order": 2,
+      "source": "/root/inbox/celeste-local/TAG_CREATOR_CLAUDE/CONTEUDO_PAUTAS/pauta_2026-07-29_estudo-adocao-ia-brasil/v1/slide2.png",
+      "file": "slide2.png",
+      "bytes": 265261,
+      "media_type": "IMAGE"
+    },
+    {
+      "order": 3,
+      "source": "/root/inbox/celeste-local/TAG_CREATOR_CLAUDE/CONTEUDO_PAUTAS/pauta_2026-07-29_estudo-adocao-ia-brasil/v1/slide3.png",
+      "file": "slide3.png",
+      "bytes": 231634,
+      "media_type": "IMAGE"
+    },
+    {
+      "order": 4,
+      "source": "/root/inbox/celeste-local/TAG_CREATOR_CLAUDE/CONTEUDO_PAUTAS/pauta_2026-07-29_estudo-adocao-ia-brasil/v1/slide4.mp4",
+      "file": "slide4.mp4",
+      "bytes": 424412,
+      "media_type": "VIDEO"
+    },
+    {
+      "order": 5,
+      "source": "/root/inbox/celeste-local/TAG_CREATOR_CLAUDE/CONTEUDO_PAUTAS/pauta_2026-07-29_estudo-adocao-ia-brasil/v1/slide5.png",
+      "file": "slide5.png",
+      "bytes": 158507,
+      "media_type": "IMAGE"
+    },
+    {
+      "order": 6,
+      "source": "/root/inbox/celeste-local/TAG_CREATOR_CLAUDE/CONTEUDO_PAUTAS/pauta_2026-07-29_estudo-adocao-ia-brasil/v1/slide6.png",
+      "file": "slide6.png",
+      "bytes": 196604,
+      "media_type": "IMAGE"
+    },
+    {
+      "order": 7,
+      "source": "/root/inbox/celeste-local/TAG_CREATOR_CLAUDE/CONTEUDO_PAUTAS/pauta_2026-07-29_estudo-adocao-ia-brasil/v1/slide7.png",
+      "file": "slide7.png",
+      "bytes": 136505,
+      "media_type": "IMAGE"
+    },
+    {
+      "order": 8,
+      "source": "/root/inbox/celeste-local/TAG_CREATOR_CLAUDE/CONTEUDO_PAUTAS/pauta_2026-07-29_estudo-adocao-ia-brasil/v1/slide8.png",
+      "file": "slide8.png",
+      "bytes": 150590,
+      "media_type": "IMAGE"
+    },
+    {
+      "order": 9,
+      "source": "/root/inbox/celeste-local/TAG_CREATOR_CLAUDE/CONTEUDO_PAUTAS/pauta_2026-07-29_estudo-adocao-ia-brasil/v1/slide9.png",
+      "file": "slide9.png",
+      "bytes": 98179,
+      "media_type": "IMAGE"
+    },
+    {
+      "order": 10,
+      "source": "/root/inbox/celeste-local/TAG_CREATOR_CLAUDE/CONTEUDO_PAUTAS/pauta_2026-07-29_estudo-adocao-ia-brasil/v1/slide10.png",
+      "file": "slide10.png",
+      "bytes": 140606,
+      "media_type": "IMAGE"
+    }
+  ],
+  "safe": {
+    "uploads": false,
+    "meta_calls": false,
+    "publishes": false
+  }
+}
