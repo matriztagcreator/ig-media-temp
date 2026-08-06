@@ -1,0 +1,20 @@
+{
+  "schema": "tag.carousel.rendered.v1",
+  "created_at": "2026-08-06T03:01:31.040155+00:00",
+  "source_spec": "/root/tmp/teste-render-canonico-tag-for-works.json",
+  "renderer": "/root/.hermes/skills/social-media/tag-for-works-content-pipeline/scripts/render_tag_carousel.py",
+  "title": "teste-render-canonico-tag-for-works",
+  "package_dir": "/root/tmp/tag-rendered-carousels/teste-render-canonico-tag-for-works",
+  "media": [
+    "slide1.png",
+    "slide2.png",
+    "slide3.png",
+    "slide4.png",
+    "slide5.png"
+  ],
+  "safe": {
+    "uploads": false,
+    "meta_calls": false,
+    "publishes": false
+  }
+}
